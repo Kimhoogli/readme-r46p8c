@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Kimhoogli.github.io/readme-r46p8c/sitemap.xml
